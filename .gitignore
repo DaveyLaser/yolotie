@@ -18,7 +18,9 @@ darknet/submission/
 darknet/cfg/
 darknet/darknet
 darknet/.fuse*
-
+libdarknet.a
+libdarknet.so
+yolov3.weights
 # OS Generated #
 *.DS_Store*
 *ehthumbs.db
